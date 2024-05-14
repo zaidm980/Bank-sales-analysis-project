@@ -1,2 +1,2 @@
-# Dashboard-projects
-Bank sales analysis 
+# Bank sales analysis 
+This project is Bank sales analysis 
